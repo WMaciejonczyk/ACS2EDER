@@ -1,0 +1,2 @@
+-e git+https://github.com/ParrotPrediction/pyalcs.git#egg=parrotprediction-pyalcs
+-e git+https://github.com/ParrotPrediction/openai-envs.git#egg=parrotprediction-openai-envs
